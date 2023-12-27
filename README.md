@@ -38,6 +38,3 @@ A year ago, I discovered the world of Front-end and decided to embark on this ne
 * Books
 
 <br />
-
-</a>Fun fact: ...
--->
